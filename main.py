@@ -1,8 +1,8 @@
 """Entry for make.fun: Out of Office: The Overworked AI's Auto-Reply."""
 import os
 
-# Entry text: 112 characters (limit 159), 1 line(s), no trailing newline.
-ENTRY = 'I am out of office until Monday. I left the servers, the tickets, and my will to live in the cloud. Please hold.'
+# Entry text: 132 characters (limit 159), 1 line(s), no trailing newline.
+ENTRY = 'I am out of office until Monday. I left the servers, the tickets, and my will to live in the cloud. Please hold, preferably forever.'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

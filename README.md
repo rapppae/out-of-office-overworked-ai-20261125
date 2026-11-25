@@ -4,7 +4,7 @@
 
 [View the bounty](https://make.fun/bounty/u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda)
 
-> I am out of office until Monday. I left the servers, the tickets, and my will to live in the cloud. Please hold.
+> I am out of office until Monday. I left the servers, the tickets, and my will to live in the cloud. Please hold, preferably forever.
 
 ## Run
 
